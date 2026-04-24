@@ -37,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: AANKARSH J
+### Name: TH KARTHIK KRISHNA
 
-### Register Number: 212223233001
+### Register Number: 212223240067
 
 ```
 import torch
